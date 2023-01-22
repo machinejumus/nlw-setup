@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [vitite o projeto onlie](https://machinejumus.github.io/nlw-setup)
+- [visite o projeto onlie](https://machinejumus.github.io/nlw-setup)
 
 ## 🔖 Layout
 
